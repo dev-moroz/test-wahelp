@@ -1,4 +1,4 @@
-# Wwhelp
+# Wahelp
 
 <a href="https://dev-moroz.github.io/test-test-wahelp/" >
   <img src="https://img.shields.io/badge/Watch%20demo-blue?style=for-the-badge&logoColor=white" alt="Project"/>
